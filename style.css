@@ -6,19 +6,27 @@
 background: linear-gradient(90deg, rgba(234,193,221,1) 0%, rgba(227,146,204,1) 35%, rgba(182,38,135,1) 100%);
 }
 body{
-    background: rgba(246, 247, 237, 0);
+    background: rgba(237, 102, 247, 0.874);
     background: linear-gradient(90deg, rgba(212, 212, 210, 0.79) 0%, rgba(246, 247, 225, 0.315) 35%, rgba(246, 246, 229, 0.137) 100%);}
-}
+    background-image: url("IMG_5120.JPG"); 
+    blackground-color: transparent;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    blackground-attachment: fixed;
+    display: inline;
+
 h5{
-    background-color: rgb(229, 228, 226);
+    background-color: transparent;
     color: rgb(255, 129, 192) ;
 }
-h3{color:rgb(127, 121, 124); 
+h3{color:rgb(228, 155, 192); 
     font-family: 'Dancing Script', cursive;}
     
 p{
-    background-color: rgb(240, 236, 236);
+    background-color: transparent
     color: rgb(252, 163, 207) ;
+}
 }
 .parrafo{
     display:inline-block;
